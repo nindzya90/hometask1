@@ -1,38 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1505d8e4-0518-4b08-b1c5-1ef60d32e971" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hometask.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/hometask/Kiryaaa/Printer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/hometask/Kiryaaa/SquarePrinter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/hometask/Kiryaaa/StringPrinter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/hometask/Kiryaaa/TestPrinter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/hometask/OOP/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/hometask/OOP/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/hometask/OOP/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/hometask/OOP/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/hometask/practice/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/hometask/practice/MainClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/hometask/practice/Plate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kiryaaa/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kiryaaa/SquarePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kiryaaa/StringPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kiryaaa/TestPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Plate.java" afterDir="false" />
+    <list default="true" id="1505d8e4-0518-4b08-b1c5-1ef60d32e971" name="Default Changelist" comment="Create MouseEventExample">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +19,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1i5eUaEEYoZuGYdqczXG5qyVrKa" />
@@ -70,7 +47,22 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Example1">
+  <component name="RunManager" selected="Application.MouseEventExample">
+    <configuration name="BorderLayout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.BorderLayout" />
+      <module name="hometask" />
+      <selectedOptions>
+        <option name="before.launch.openToolWindow" />
+        <option name="commandLineParameters" />
+        <option name="environmentVariables" />
+        <option name="jrePath" />
+        <option name="mainClass" />
+        <option name="workingDirectory" />
+      </selectedOptions>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Cat" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.Cat" />
       <module name="hometask" />
@@ -86,7 +78,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Example1" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Examples.Example1" />
       <module name="hometask" />
       <selectedOptions>
@@ -101,13 +93,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="KeyBoardsExample" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="events.KeyBoardExample" />
+      <module name="hometask" />
+      <selectedOptions>
+        <option name="before.launch.openToolWindow" />
+        <option name="commandLineParameters" />
+        <option name="environmentVariables" />
+        <option name="jrePath" />
+        <option name="mainClass" />
+        <option name="workingDirectory" />
+      </selectedOptions>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MouseEventExample" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="events.MouseEventExample" />
+      <module name="hometask" />
+      <selectedOptions>
+        <option name="before.launch.openToolWindow" />
+        <option name="commandLineParameters" />
+        <option name="environmentVariables" />
+        <option name="jrePath" />
+        <option name="mainClass" />
+        <option name="workingDirectory" />
+      </selectedOptions>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -138,11 +162,14 @@
     <list>
       <item itemvalue="Application.Cat" />
       <item itemvalue="Application.Example1" />
+      <item itemvalue="Application.KeyBoardsExample" />
+      <item itemvalue="Application.MouseEventExample" />
+      <item itemvalue="Application.BorderLayout" />
       <item itemvalue="Maven.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example1" />
+        <item itemvalue="Application.BorderLayout" />
       </list>
     </recent_temporary>
   </component>
@@ -158,8 +185,45 @@
       <workItem from="1602152080118" duration="17781000" />
       <workItem from="1602279363349" duration="3419000" />
       <workItem from="1602282799771" duration="249000" />
-      <workItem from="1602340596908" duration="5646000" />
+      <workItem from="1602340596908" duration="8381000" />
+      <workItem from="1602414317354" duration="10985000" />
     </task>
+    <task id="LOCAL-00001" summary="add Example 1,2">
+      <created>1602413425917</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602413425917</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add button LINE_END">
+      <created>1602436882571</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602436882571</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create BorderLayout &quot;GridLayoutDemo&quot;">
+      <created>1602439045025</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602439045025</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Create KeyBoardExample">
+      <created>1602442459055</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602442459055</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Create MouseEventExample">
+      <created>1602443809949</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602443809949</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,7 +234,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="homework2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -179,6 +255,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="add Example 1,2" />
+    <MESSAGE value="add button LINE_END" />
+    <MESSAGE value="Create BorderLayout &quot;GridLayoutDemo&quot;" />
+    <MESSAGE value="Create KeyBoardExample" />
+    <MESSAGE value="Create MouseEventExample" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create MouseEventExample" />
   </component>
 </project>

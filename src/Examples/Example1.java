@@ -32,6 +32,9 @@ public class Example1 {
             button = new JButton("Long-Named Button 4 (PAGE_END)");
             add(button,BorderLayout.PAGE_END);
 
+            button = new JButton("5 (LINE_END)");
+            add(button,BorderLayout.LINE_END);
+
         }
     }
 

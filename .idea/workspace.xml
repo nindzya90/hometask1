@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1505d8e4-0518-4b08-b1c5-1ef60d32e971" name="Default Changelist" comment="test">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hometask/Kiryaaa/Printer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hometask/Kiryaaa/SquarePrinter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hometask/Kiryaaa/StringPrinter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hometask/Kiryaaa/TestPrinter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hometask/OOP/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hometask/OOP/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hometask/OOP/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hometask/OOP/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hometask/practice/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hometask/practice/MainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hometask/practice/Plate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kiryaaa/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kiryaaa/SquarePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kiryaaa/StringPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kiryaaa/TestPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Plate.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1i5eUaEEYoZuGYdqczXG5qyVrKa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Example1">
+    <configuration name="Cat" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.Cat" />
+      <module name="hometask" />
+      <selectedOptions>
+        <option name="before.launch.openToolWindow" />
+        <option name="commandLineParameters" />
+        <option name="environmentVariables" />
+        <option name="jrePath" />
+        <option name="mainClass" />
+        <option name="workingDirectory" />
+      </selectedOptions>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.Example1" />
+      <module name="hometask" />
+      <selectedOptions>
+        <option name="before.launch.openToolWindow" />
+        <option name="commandLineParameters" />
+        <option name="environmentVariables" />
+        <option name="jrePath" />
+        <option name="mainClass" />
+        <option name="workingDirectory" />
+      </selectedOptions>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Cat" />
+      <item itemvalue="Application.Example1" />
+      <item itemvalue="Maven.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Example1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1505d8e4-0518-4b08-b1c5-1ef60d32e971" name="Default Changelist" comment="" />
+      <created>1601201898663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601201898663</updated>
+      <workItem from="1601201899712" duration="1862000" />
+      <workItem from="1602152080118" duration="17781000" />
+      <workItem from="1602279363349" duration="3419000" />
+      <workItem from="1602282799771" duration="249000" />
+      <workItem from="1602340596908" duration="5646000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+</project>

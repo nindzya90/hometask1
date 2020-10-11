@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1505d8e4-0518-4b08-b1c5-1ef60d32e971" name="Default Changelist" comment="Create MouseEventExample">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1505d8e4-0518-4b08-b1c5-1ef60d32e971" name="Default Changelist" comment="#end java 1">
+      <change beforePath="$PROJECT_DIR$/hometask.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hometaskJava1.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,7 @@
   <component name="RunManager" selected="Application.MouseEventExample">
     <configuration name="BorderLayout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Examples.BorderLayout" />
-      <module name="hometask" />
+      <module name="hometaskJava1" />
       <selectedOptions>
         <option name="before.launch.openToolWindow" />
         <option name="commandLineParameters" />
@@ -65,7 +63,7 @@
     </configuration>
     <configuration name="Cat" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.Cat" />
-      <module name="hometask" />
+      <module name="hometaskJava1" />
       <selectedOptions>
         <option name="before.launch.openToolWindow" />
         <option name="commandLineParameters" />
@@ -80,7 +78,7 @@
     </configuration>
     <configuration name="Example1" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Examples.Example1" />
-      <module name="hometask" />
+      <module name="hometaskJava1" />
       <selectedOptions>
         <option name="before.launch.openToolWindow" />
         <option name="commandLineParameters" />
@@ -95,7 +93,7 @@
     </configuration>
     <configuration name="KeyBoardsExample" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="events.KeyBoardExample" />
-      <module name="hometask" />
+      <module name="hometaskJava1" />
       <selectedOptions>
         <option name="before.launch.openToolWindow" />
         <option name="commandLineParameters" />
@@ -110,7 +108,7 @@
     </configuration>
     <configuration name="MouseEventExample" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="events.MouseEventExample" />
-      <module name="hometask" />
+      <module name="hometaskJava1" />
       <selectedOptions>
         <option name="before.launch.openToolWindow" />
         <option name="commandLineParameters" />
@@ -132,6 +130,53 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="hometaskJava1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="hometaskJava1" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -186,7 +231,7 @@
       <workItem from="1602279363349" duration="3419000" />
       <workItem from="1602282799771" duration="249000" />
       <workItem from="1602340596908" duration="8381000" />
-      <workItem from="1602414317354" duration="10985000" />
+      <workItem from="1602414317354" duration="11331000" />
     </task>
     <task id="LOCAL-00001" summary="add Example 1,2">
       <created>1602413425917</created>
@@ -223,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602443809949</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="#end java 1">
+      <created>1602446788017</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602446788017</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,6 +312,7 @@
     <MESSAGE value="Create BorderLayout &quot;GridLayoutDemo&quot;" />
     <MESSAGE value="Create KeyBoardExample" />
     <MESSAGE value="Create MouseEventExample" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create MouseEventExample" />
+    <MESSAGE value="#end java 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="#end java 1" />
   </component>
 </project>
